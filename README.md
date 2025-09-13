@@ -27,10 +27,7 @@ Your entry should maintain alphabetical order and use this format:
 
 ## Participants
 
-<<<<<<< HEAD
-=======
 -   Bernhard Prinz, ds25m027, [ds25m037-prinz](https://github.com/ds25m037-prinz)
->>>>>>> edberto-lima
 -   Edberto Moura Lima, ds25m025, [ds25m025edbertolima](https://github.com/ds25m025edbertolima)
 
 ## Goals
